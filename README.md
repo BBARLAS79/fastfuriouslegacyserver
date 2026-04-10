@@ -1,7 +1,7 @@
 # Fast Furious Legacy Private EA Server
 
 
-This server is for the Fast & Furious Legacy  game in Early Access.
+This server is for the Fast & Furious Legacy  game in Early Access..
 
 For Fast & Furious 6: The Game, visit here: https://github.com/Win-DVD/ff6-server (Thanks WinDVD)
 
