@@ -1,0 +1,1017 @@
+{
+  "source": {
+    "obb_zip": "/Users/berkeipekci/Desktop/com.kabam.ff7.zip",
+    "nested_obb": "com.kabam.ff7/main.94895.com.kabam.ff7.obb"
+  },
+  "tutorials_bundle": {
+    "bundle": "tutorials/tutorials_db_base.assetbundle",
+    "toc": {
+      "bundles": {
+        "tutorials_db_base": {
+          "mount": "Auto",
+          "deterministic": false,
+          "file": "tutorials_db_base.assetbundle",
+          "ts": 635785273540000000,
+          "hash": 890839513,
+          "uncompressed": true,
+          "size": 9792,
+          "paths": [
+            "bundles/tutorials/base/db/tutorialdb"
+          ],
+          "parent": ""
+        }
+      },
+      "files": [],
+      "version": "3.0.2",
+      "scenes": {}
+    },
+    "objects": [
+      {
+        "type": "AssetBundle",
+        "name": null
+      },
+      {
+        "type": "TextAsset",
+        "name": "tutorialdb",
+        "text_preview": "{\"ltgid\":43,\"data\":{\"SEQUENTIAL\":[{\"gn\":\"First Race - Street Tutorial\",\"t\":[{\"tgi\":1,\"tsp\":\"Prefab_Sequences/sequence_tutorial_street_2\",\"ti\":3,\"jid\":\"chapter_00_a\",\"si\":0,\"rist\":null,\"tn\":\"Change Lane\"},{\"tgi\":1,\"tsp\":\"Prefab_Sequences/sequence_tutorial_street_3\",\"ti\":4,\"jid\":null,\"si\":1,\"rist\":null,\"tn\":\"Use NOS\"},{\"tgi\":1,\"tsp\":\"Prefab_Sequences/sequence_tutorial_street_4\",\"ti\":5,\"jid\":null,\"si\":2,\"rist\":null,\"tn\":\"CompleteRace\"}],\"si\":0,\"gsp\":\"\",\"gi\":1},{\"gn\":\"Gacha FTE Buy Car\",\"t\":[{\"tgi\":"
+      }
+    ],
+    "sequential_ids": [
+      "G1",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8",
+      "G9",
+      "G10",
+      "G39",
+      "G15"
+    ],
+    "contextual_ids": [
+      "G24",
+      "G25",
+      "G26",
+      "G27",
+      "G30",
+      "G35",
+      "G36",
+      "G37",
+      "G40"
+    ]
+  },
+  "audio_bundle": {
+    "bundle": "audio/audio.assetbundle",
+    "toc_paths": [
+      "bundles/audio/events/music/audioevent_mx_failcue",
+      "bundles/audio/events/music/audioevent_mx_intromusic",
+      "bundles/audio/events/music/audioevent_mx_intro_music",
+      "bundles/audio/events/music/audioevent_mx_mapmusic",
+      "bundles/audio/events/music/audioevent_mx_map_music",
+      "bundles/audio/events/music/audioevent_mx_menumusic",
+      "bundles/audio/events/music/audioevent_mx_menu_music",
+      "bundles/audio/events/music/audioevent_mx_miami_prerace",
+      "bundles/audio/events/music/audioevent_mx_objective_fail_cue",
+      "bundles/audio/events/music/audioevent_mx_objective_fail_stinger",
+      "bundles/audio/events/music/audioevent_mx_objective_success_cue",
+      "bundles/audio/events/music/audioevent_mx_objective_success_stinger",
+      "bundles/audio/events/music/audioevent_mx_prerace_abudhabi",
+      "bundles/audio/events/music/audioevent_mx_prerace_chase",
+      "bundles/audio/events/music/audioevent_mx_prerace_intro",
+      "bundles/audio/events/music/audioevent_mx_prerace_losangeles",
+      "bundles/audio/events/music/audioevent_mx_prerace_miami",
+      "bundles/audio/events/music/audioevent_mx_prerace_rio",
+      "bundles/audio/events/music/audioevent_mx_prerace_tokyo",
+      "bundles/audio/events/music/audioevent_mx_racemusic",
+      "bundles/audio/events/music/audioevent_mx_race_music",
+      "bundles/audio/events/music/audioevent_mx_successcue",
+      "bundles/audio/events/music/audioevent_mx_tokyo_prerace"
+    ],
+    "interesting_objects": [
+      {
+        "type": "AudioClip",
+        "name": "race_music_success_cue"
+      },
+      {
+        "type": "AudioClip",
+        "name": "FF7_prerace_la_v5_24k"
+      },
+      {
+        "type": "AudioClip",
+        "name": "FF7_prerace_abudhabi"
+      },
+      {
+        "type": "AudioClip",
+        "name": "FF7_tokyo_prerace"
+      },
+      {
+        "type": "AudioClip",
+        "name": "map_music_24"
+      },
+      {
+        "type": "AudioClip",
+        "name": "ff7_chase_loop_24k"
+      },
+      {
+        "type": "AudioClip",
+        "name": "old_ff6_menu_music"
+      },
+      {
+        "type": "AudioClip",
+        "name": "ff7_tokyo_mx_loop"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_IntroMusic"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Intro_Music"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_MapMusic"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Map_Music"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_MenuMusic"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Menu_Music"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Miami_PreRace"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_AbuDhabi"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_Chase"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_Intro"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_LosAngeles"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_Miami"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_Rio"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_PreRace_Tokyo"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_RaceMusic"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Race_Music"
+      },
+      {
+        "type": "GameObject",
+        "name": "AudioEvent_Mx_Tokyo_PreRace"
+      }
+    ]
+  },
+  "cars_base_bundle": {
+    "bundle": "cars/cars_assets_base.assetbundle",
+    "interesting_objects": [
+      {
+        "type": "Material",
+        "name": "ff_police_sedan_tokyo_01_rim_brake"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_misc"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_misc_brakelight"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_rim_brake"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_window"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_misc_brakelight"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_rim_brake"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_window"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_misc"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_rim_brake"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_window"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_misc"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_misc_brakelight"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_rim_brake"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_window"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_bensopra_ff6_window"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_gran_torino_1972_ff4_window"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_mustang_gt_2015_window"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_bensopra_ff6_misc"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_gran_torino_1972_ff4_misc"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_2007_window"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_brake_rotor_rear_13_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_brake_caliper_rear_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_brake_caliper_front_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_body_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_brake_rotor_rear_10_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_collider"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_collider"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_bensopra_ff6_collider"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_brake_caliper_rear_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_brake_caliper_front_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_brake_caliper_front_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_brake_caliper_rear_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_misc_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_brake_caliper_rear_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_brake_caliper_front_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_brake_caliper_front_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_bensopra_ff6_misc_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_brake_caliper_rear_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_hood_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_bensopra_ff6_body_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_bensopra_ff6_hood_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_brake_rotor_front_14_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_brake_rotor_front_14_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_brake_rotor_rear_15_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_brake_rotor_front_14_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_brake_rotor_front_15_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_body_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_hood_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_body_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_brake_rotor_front_10_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_misc_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_hood_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_misc_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_hood_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_brake_caliper_front_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_brake_caliper_rear_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_brake_rotor_front_14_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_brake_caliper_front_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_brake_caliper_rear_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_brake_rotor_front_10_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_brake_rotor_rear_10_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_shadow"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_brake_caliper_front_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_brake_caliper_rear_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_brake_rotor_front_14_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_brake_rotor_rear_13_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_shadow"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_brake_caliper_front_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_brake_caliper_rear_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_brake_rotor_front_14_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_shadow"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_brake_caliper_front_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_brake_caliper_rear_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_brake_rotor_front_15_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_brake_rotor_rear_15_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_shadow"
+      },
+      {
+        "type": "GameObject",
+        "name": "ff_police_sedan_tokyo_01_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_gran_torino_1972_ff4_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_mustang_gt_2015_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_2007_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_bensopra_ff6_body_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ff_police_sedan_tokyo_01_hood_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_gran_torino_1972_ff4_hood_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_mustang_gt_2015_misc_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_2007_hood_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_bensopra_ff6_hood_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ff_police_sedan_tokyo_01_misc_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_gran_torino_1972_ff4_misc_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_2007_misc_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "nissan_gtr_r35_bensopra_ff6_misc_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "ford_mustang_gt_2015_hood_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_attribute_nissan_gtr_r35_2007"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_attribute_ff_police_sedan_tokyo_01"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_attribute_ford_gran_torino_1972_ff4"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_attribute_ford_mustang_gt_2015"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_attribute_nissan_gtr_r35_2007_bensopra_ff6"
+      }
+    ]
+  },
+  "cars_visualupgrades_bundle": {
+    "bundle": "cars/cars_assets_visualupgrades.assetbundle",
+    "interesting_objects": [
+      {
+        "type": "Material",
+        "name": "carpaint_ff_police_sedan_tokyo_01"
+      },
+      {
+        "type": "Material",
+        "name": "ff_police_sedan_tokyo_01_rim"
+      },
+      {
+        "type": "Material",
+        "name": "ff_police_sedan_tokyo_01_rim_blur"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_rim"
+      },
+      {
+        "type": "Material",
+        "name": "ford_gran_torino_1972_ff4_rim_blur"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_misc"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_rim"
+      },
+      {
+        "type": "Material",
+        "name": "ford_mustang_gt_2015_rim_blur"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_misc_brakelight"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_rim"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_rim_blur"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_rim"
+      },
+      {
+        "type": "Material",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_rim_blur"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_ford_gran_torino_1972_ff4"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_ford_mustang_gt_2015_acrylic_orange"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_ford_mustang_gt_2015_acrylic_red"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_ford_mustang_gt_2015_acrylic_yellow"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_nissan_gtr_r35_2007_bensopra_ff6"
+      },
+      {
+        "type": "Material",
+        "name": "carpaint_nissan_gtr_r35_2007_metallic_ultimate_metal_silver"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_mustang_gt_2015_rim"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ff_police_sedan_tokyo_01_rim_blur"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_bensopra_ff6_rim_blur"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_gran_torino_1972_ff4_rim"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_2007_rim"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_bensopra_ff6_rim"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_2007_rim_blur"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_gran_torino_1972_ff4_rim_blur"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_mustang_gt_2015_rim_blur"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ff_police_sedan_tokyo_01_rim"
+      },
+      {
+        "type": "Texture2D",
+        "name": "ford_mustang_gt_2015_misc"
+      },
+      {
+        "type": "Texture2D",
+        "name": "nissan_gtr_r35_2007_misc"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_rim_front_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_rim_front_blur_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_rim_rear_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_rim_front_225_20_blur_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_rim_rear_blur_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bensopra_ff6_rim_front_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_spoiler_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_bodykit_oem_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_rim_front_225_21_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "nissan_gtr_r35_2007_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ff_police_sedan_tokyo_01_rim_front_225_21_blur_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_rim_front_225_20_blur_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_mustang_gt_2015_rim_front_225_20_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_rim_front_225_18_blur_a"
+      },
+      {
+        "type": "Mesh",
+        "name": "ford_gran_torino_1972_ff4_rim_front_225_18_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_bodykit_oem_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_rim_front_225_21_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ff_police_sedan_tokyo_01_rim_front_225_21_blur_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_rim_front_225_18_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_gran_torino_1972_ff4_rim_front_225_18_blur_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_ford_mustang_gt_2015_rim_front_225_20_blur_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_bensopra_ff6_rim_front_225_20_blur_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_rim_front_blur_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_rim_rear_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_rim_rear_blur_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "car_part_nissan_gtr_r35_2007_spoiler_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_mustang_gt_2015_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_mustang_gt_2015_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_mustang_gt_2015_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_mustang_gt_2015_bodykit_oem_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_bodykit_aero_001_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_bodykit_aero_002_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_bodykit_aero_003_s1_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_ff_police_sedan_tokyo_01"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_ford_gran_torino_1972_ff4"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_ford_mustang_gt_2015_acrylic_orange"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_ford_mustang_gt_2015_acrylic_red"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_ford_mustang_gt_2015_acrylic_yellow"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_nissan_gtr_r35_2007_bensopra_ff6"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_carpaint_nissan_gtr_r35_2007_metallic_ultimate_metal_silver"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ff_police_sedan_tokyo_01_rim_front_225_21_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_gran_torino_1972_ff4_rim_front_225_18_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_ford_mustang_gt_2015_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_bensopra_ff6_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_bensopra_ff6_rim_rear_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_rim_front_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_rim_rear_225_20_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_nissan_gtr_r35_2007_spoiler_a"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_vinyl_oem_ff_police_sedan_tokyo_01"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_vinyl_oem_ford_gran_torino_1972_ff4"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_vinyl_tutorial_ford_mustang_gt_2015_01"
+      },
+      {
+        "type": "GameObject",
+        "name": "vu_vinyl_tutorial_nissan_gtr_r35_2007_01"
+      }
+    ]
+  },
+  "global_assets": [
+    "global/Bundles/UITextures/Atlases/TutorialHdUIAtlas.png",
+    "global/Bundles/UITextures/Atlases/TutorialSdUIAtlas.png",
+    "global/Bundles/UITextures/Dialog/dialog_character_letty01_HD.png",
+    "global/Bundles/UITextures/Dialog/dialog_character_letty01_SD.png",
+    "global/Bundles/UITextures/Dialog/dialog_character_roman01_HD.png",
+    "global/Bundles/UITextures/Dialog/dialog_character_roman01_SD.png",
+    "global/Bundles/UITextures/ProfilePictures/profile_pic_letty01_HD.png",
+    "global/Bundles/UITextures/ProfilePictures/profile_pic_letty01_SD.png",
+    "global/Bundles/UITextures/ProfilePictures/profile_pic_police_HD.png",
+    "global/Bundles/UITextures/ProfilePictures/profile_pic_police_SD.png",
+    "global/Bundles/vutextures/vinyl/unique/vinyl_tutorial_ford_mustang_gt_2015_01.png",
+    "global/Bundles/vutextures/vinyl/unique/vinyl_tutorial_nissan_gtr_r35_2007_01.png"
+  ]
+}

@@ -1,0 +1,8321 @@
+{
+  "version": "2.1.0",
+  "sources": {
+    "client_txt": "/Users/berkeipekci/Downloads/Telegram Desktop/ff7 extract2/tum_kodlar210.txt",
+    "apk": "/Users/berkeipekci/Downloads/FF Legacy v2.1.0/FF Legacy v2.1.0.apk",
+    "obb": "/Users/berkeipekci/Downloads/FF Legacy v2.1.0/com.kabam.ff7/main.88844.com.kabam.ff7.obb"
+  },
+  "obb": {
+    "scene_files": [
+      "scene_tokyo_garage.assetbundle",
+      "scene_la_street.assetbundle",
+      "scene_la_street_variant.assetbundle",
+      "scene_miami_drag.assetbundle",
+      "scene_miami_drag_variant.assetbundle",
+      "scene_miami_drift.assetbundle",
+      "scene_miami_drift_variant.assetbundle",
+      "scene_miami_street.assetbundle",
+      "scene_miami_street_variant.assetbundle",
+      "scene_rio_drag.assetbundle",
+      "scene_rio_drag_variant.assetbundle",
+      "scene_rio_drift.assetbundle",
+      "scene_rio_drift_variant.assetbundle",
+      "scene_rio_street.assetbundle",
+      "scene_rio_street_variant.assetbundle",
+      "scene_tokyo_drag.assetbundle",
+      "scene_tokyo_drag_variant.assetbundle",
+      "scene_tokyo_drift.assetbundle",
+      "scene_tokyo_drift_variant.assetbundle",
+      "scene_tokyo_street.assetbundle",
+      "scene_tokyo_street_variant.assetbundle"
+    ],
+    "track_to_bundle": {
+      "track_miami_drift_variant_500m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_drag_variant_halfmile": "scene_tokyo_drag_variant.assetbundle",
+      "track_rio_drift_variant_600m": "scene_rio_drift_variant.assetbundle",
+      "track_tokyo_drag_variant_1mile": "scene_tokyo_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawayhard": "scene_tokyo_street_variant.assetbundle",
+      "track_rio_drift_variant_1250m": "scene_rio_drift_variant.assetbundle",
+      "track_tokyo_drag_layer_group_1": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_2": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_3": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_4": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_street_variant_streetgetaway": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_fullTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_miami_street_variant_shortTrack": "scene_miami_street_variant.assetbundle",
+      "track_la_street_variant_streetgetaway": "scene_la_street_variant.assetbundle",
+      "track_rio_drag_variant_fullTrack": "scene_rio_drag_variant.assetbundle",
+      "track_miami_street_layer_group_3": "scene_miami_street.assetbundle",
+      "track_tokyo_drag_variant_quartermile": "scene_tokyo_drag_variant.assetbundle",
+      "track_miami_drag_variant_3quartermile": "scene_miami_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawayeasy": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_mediumTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_garage": "scene_tokyo_garage.assetbundle",
+      "track_la_street_layer_group_1": "scene_la_street.assetbundle",
+      "track_tokyo_drift_variant_1000m": "scene_tokyo_drift_variant.assetbundle",
+      "track_la_street_variant_tutorial": "scene_la_street_variant.assetbundle",
+      "track_tokyo_street_variant_shortTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_la_street_variant_fullTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_street_variant_streetgetaway": "scene_miami_street_variant.assetbundle",
+      "track_miami_street_variant_takedown": "scene_miami_street_variant.assetbundle",
+      "track_tokyo_drift_variant_800m": "scene_tokyo_drift_variant.assetbundle",
+      "track_rio_street_variant_streetgetawaymedium": "scene_rio_street_variant.assetbundle",
+      "track_rio_street_variant_shortTrack": "scene_rio_street_variant.assetbundle",
+      "track_tokyo_street_variant_statham": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_getawayreplay": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_drift_variant_1600m": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_variant_streetgetawaymedium": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_takedown": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_drift_variant_550m": "scene_tokyo_drift_variant.assetbundle",
+      "track_rio_drag_variant_1mile": "scene_rio_drag_variant.assetbundle",
+      "track_rio_drift_variant_800m": "scene_rio_drift_variant.assetbundle",
+      "track_miami_street_variant_fullTrack": "scene_miami_street_variant.assetbundle",
+      "track_tokyo_drift_variant_975m": "scene_tokyo_drift_variant.assetbundle",
+      "track_miami_drift_variant_1500m": "scene_miami_drift_variant.assetbundle",
+      "track_rio_street_variant_mediumTrack": "scene_rio_street_variant.assetbundle",
+      "track_tokyo_street_variant_streetgetawaylong": "scene_tokyo_street_variant.assetbundle",
+      "track_rio_drag_layer_group_1": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_2": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_3": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_4": "scene_rio_drag.assetbundle",
+      "track_miami_drift_variant_1250m": "scene_miami_drift_variant.assetbundle",
+      "track_miami_drift_variant_750m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_street_layer_group_1": "scene_tokyo_street.assetbundle",
+      "track_rio_street_variant_takedown": "scene_rio_street_variant.assetbundle",
+      "track_rio_drift_layer_group_1": "scene_rio_drift.assetbundle",
+      "track_rio_drift_layer_group_2": "scene_rio_drift.assetbundle",
+      "track_miami_drag_layer_group_1": "scene_miami_drag.assetbundle",
+      "track_rio_drift_layer_group_4": "scene_rio_drift.assetbundle",
+      "track_rio_drift_variant_1000m": "scene_rio_drift_variant.assetbundle",
+      "track_la_street_layer_group_2": "scene_la_street.assetbundle",
+      "track_la_street_layer_group_3": "scene_la_street.assetbundle",
+      "track_la_street_layer_group_4": "scene_la_street.assetbundle",
+      "track_tokyo_drift_variant_fullTrack": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_layer_group_2": "scene_tokyo_street.assetbundle",
+      "track_tokyo_street_layer_group_3": "scene_tokyo_street.assetbundle",
+      "track_rio_street_layer_group_4": "scene_rio_street.assetbundle",
+      "track_rio_drift_variant_1600m": "scene_rio_drift_variant.assetbundle",
+      "track_tokyo_street_variant_getawaytutorial": "scene_tokyo_street_variant.assetbundle",
+      "track_miami_street_layer_group_1": "scene_miami_street.assetbundle",
+      "track_miami_street_layer_group_2": "scene_miami_street.assetbundle",
+      "track_miami_drift_variant_1100m": "scene_miami_drift_variant.assetbundle",
+      "track_miami_street_layer_group_4": "scene_miami_street.assetbundle",
+      "track_miami_drag_variant_quartermile": "scene_miami_drag_variant.assetbundle",
+      "track_miami_street_variant_mediumTrack": "scene_miami_street_variant.assetbundle",
+      "track_rio_street_variant_fullTrack": "scene_rio_street_variant.assetbundle",
+      "track_miami_drift_layer_group_1": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_2": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_3": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_4": "scene_miami_drift.assetbundle",
+      "track_tokyo_street_layer_group_4": "scene_tokyo_street.assetbundle",
+      "track_tokyo_drag_variant_3quartermile": "scene_tokyo_drag_variant.assetbundle",
+      "track_tokyo_drift_variant_1250m": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_variant_chase": "scene_tokyo_street_variant.assetbundle",
+      "track_la_street_variant_mediumTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_drag_variant_1mile": "scene_miami_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawaymedium": "scene_tokyo_street_variant.assetbundle",
+      "track_rio_drag_variant_3quartermile": "scene_rio_drag_variant.assetbundle",
+      "track_rio_street_layer_group_1": "scene_rio_street.assetbundle",
+      "track_rio_street_layer_group_2": "scene_rio_street.assetbundle",
+      "track_rio_street_layer_group_3": "scene_rio_street.assetbundle",
+      "track_la_street_variant_shortTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_drag_variant_halfmile": "scene_miami_drag_variant.assetbundle",
+      "track_miami_drag_layer_group_2": "scene_miami_drag.assetbundle",
+      "track_miami_drag_layer_group_3": "scene_miami_drag.assetbundle",
+      "track_miami_drag_layer_group_4": "scene_miami_drag.assetbundle",
+      "track_tokyo_drift_layer_group_2": "scene_tokyo_drift.assetbundle",
+      "track_rio_street_variant_streetgetaway": "scene_rio_street_variant.assetbundle",
+      "track_miami_drift_variant_950m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_drift_variant_725m": "scene_tokyo_drift_variant.assetbundle",
+      "track_rio_drag_variant_halfmile": "scene_rio_drag_variant.assetbundle",
+      "track_rio_drift_layer_group_3": "scene_rio_drift.assetbundle",
+      "track_tokyo_drift_layer_group_1": "scene_tokyo_drift.assetbundle",
+      "track_rio_drag_variant_quartermile": "scene_rio_drag_variant.assetbundle",
+      "track_tokyo_drift_layer_group_3": "scene_tokyo_drift.assetbundle",
+      "track_tokyo_drift_layer_group_4": "scene_tokyo_drift.assetbundle",
+      "track_miami_street_variant_getawaymedium": "scene_miami_street_variant.assetbundle",
+      "track_miami_drift_variant_1000m": "scene_miami_drift_variant.assetbundle"
+    },
+    "interesting_tracks": {
+      "track_miami_drift_variant_500m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_drag_variant_halfmile": "scene_tokyo_drag_variant.assetbundle",
+      "track_tokyo_drag_variant_1mile": "scene_tokyo_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawayhard": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_drag_layer_group_1": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_2": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_3": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_drag_layer_group_4": "scene_tokyo_drag.assetbundle",
+      "track_tokyo_street_variant_streetgetaway": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_fullTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_miami_street_variant_shortTrack": "scene_miami_street_variant.assetbundle",
+      "track_la_street_variant_streetgetaway": "scene_la_street_variant.assetbundle",
+      "track_miami_street_layer_group_3": "scene_miami_street.assetbundle",
+      "track_tokyo_drag_variant_quartermile": "scene_tokyo_drag_variant.assetbundle",
+      "track_miami_drag_variant_3quartermile": "scene_miami_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawayeasy": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_mediumTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_garage": "scene_tokyo_garage.assetbundle",
+      "track_la_street_layer_group_1": "scene_la_street.assetbundle",
+      "track_tokyo_drift_variant_1000m": "scene_tokyo_drift_variant.assetbundle",
+      "track_la_street_variant_tutorial": "scene_la_street_variant.assetbundle",
+      "track_tokyo_street_variant_shortTrack": "scene_tokyo_street_variant.assetbundle",
+      "track_la_street_variant_fullTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_street_variant_streetgetaway": "scene_miami_street_variant.assetbundle",
+      "track_miami_street_variant_takedown": "scene_miami_street_variant.assetbundle",
+      "track_tokyo_drift_variant_800m": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_variant_statham": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_getawayreplay": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_drift_variant_1600m": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_variant_streetgetawaymedium": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_street_variant_takedown": "scene_tokyo_street_variant.assetbundle",
+      "track_tokyo_drift_variant_550m": "scene_tokyo_drift_variant.assetbundle",
+      "track_miami_street_variant_fullTrack": "scene_miami_street_variant.assetbundle",
+      "track_tokyo_drift_variant_975m": "scene_tokyo_drift_variant.assetbundle",
+      "track_miami_drift_variant_1500m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_street_variant_streetgetawaylong": "scene_tokyo_street_variant.assetbundle",
+      "track_rio_drag_layer_group_1": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_2": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_3": "scene_rio_drag.assetbundle",
+      "track_rio_drag_layer_group_4": "scene_rio_drag.assetbundle",
+      "track_miami_drift_variant_1250m": "scene_miami_drift_variant.assetbundle",
+      "track_miami_drift_variant_750m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_street_layer_group_1": "scene_tokyo_street.assetbundle",
+      "track_rio_drift_layer_group_1": "scene_rio_drift.assetbundle",
+      "track_rio_drift_layer_group_2": "scene_rio_drift.assetbundle",
+      "track_miami_drag_layer_group_1": "scene_miami_drag.assetbundle",
+      "track_rio_drift_layer_group_4": "scene_rio_drift.assetbundle",
+      "track_la_street_layer_group_2": "scene_la_street.assetbundle",
+      "track_la_street_layer_group_3": "scene_la_street.assetbundle",
+      "track_la_street_layer_group_4": "scene_la_street.assetbundle",
+      "track_tokyo_drift_variant_fullTrack": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_layer_group_2": "scene_tokyo_street.assetbundle",
+      "track_tokyo_street_layer_group_3": "scene_tokyo_street.assetbundle",
+      "track_rio_street_layer_group_4": "scene_rio_street.assetbundle",
+      "track_tokyo_street_variant_getawaytutorial": "scene_tokyo_street_variant.assetbundle",
+      "track_miami_street_layer_group_1": "scene_miami_street.assetbundle",
+      "track_miami_street_layer_group_2": "scene_miami_street.assetbundle",
+      "track_miami_drift_variant_1100m": "scene_miami_drift_variant.assetbundle",
+      "track_miami_street_layer_group_4": "scene_miami_street.assetbundle",
+      "track_miami_drag_variant_quartermile": "scene_miami_drag_variant.assetbundle",
+      "track_miami_street_variant_mediumTrack": "scene_miami_street_variant.assetbundle",
+      "track_miami_drift_layer_group_1": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_2": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_3": "scene_miami_drift.assetbundle",
+      "track_miami_drift_layer_group_4": "scene_miami_drift.assetbundle",
+      "track_tokyo_street_layer_group_4": "scene_tokyo_street.assetbundle",
+      "track_tokyo_drag_variant_3quartermile": "scene_tokyo_drag_variant.assetbundle",
+      "track_tokyo_drift_variant_1250m": "scene_tokyo_drift_variant.assetbundle",
+      "track_tokyo_street_variant_chase": "scene_tokyo_street_variant.assetbundle",
+      "track_la_street_variant_mediumTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_drag_variant_1mile": "scene_miami_drag_variant.assetbundle",
+      "track_tokyo_street_variant_getawaymedium": "scene_tokyo_street_variant.assetbundle",
+      "track_rio_street_layer_group_1": "scene_rio_street.assetbundle",
+      "track_rio_street_layer_group_2": "scene_rio_street.assetbundle",
+      "track_rio_street_layer_group_3": "scene_rio_street.assetbundle",
+      "track_la_street_variant_shortTrack": "scene_la_street_variant.assetbundle",
+      "track_miami_drag_variant_halfmile": "scene_miami_drag_variant.assetbundle",
+      "track_miami_drag_layer_group_2": "scene_miami_drag.assetbundle",
+      "track_miami_drag_layer_group_3": "scene_miami_drag.assetbundle",
+      "track_miami_drag_layer_group_4": "scene_miami_drag.assetbundle",
+      "track_tokyo_drift_layer_group_2": "scene_tokyo_drift.assetbundle",
+      "track_miami_drift_variant_950m": "scene_miami_drift_variant.assetbundle",
+      "track_tokyo_drift_variant_725m": "scene_tokyo_drift_variant.assetbundle",
+      "track_rio_drift_layer_group_3": "scene_rio_drift.assetbundle",
+      "track_tokyo_drift_layer_group_1": "scene_tokyo_drift.assetbundle",
+      "track_tokyo_drift_layer_group_3": "scene_tokyo_drift.assetbundle",
+      "track_tokyo_drift_layer_group_4": "scene_tokyo_drift.assetbundle",
+      "track_miami_street_variant_getawaymedium": "scene_miami_street_variant.assetbundle",
+      "track_miami_drift_variant_1000m": "scene_miami_drift_variant.assetbundle"
+    },
+    "tutorial_bundle_chapters": [
+      "chapter_00_a",
+      "chapter_01_a",
+      "chapter_01_b",
+      "chapter_01_c",
+      "chapter_01_e",
+      "chapter_02_a"
+    ],
+    "tutorial_bundle_sequences": [
+      "sequence_tutorial_c_hire_mechanic_a",
+      "sequence_tutorial_c_hire_mechanic_master",
+      "sequence_tutorial_c_inventory_screen_a",
+      "sequence_tutorial_c_inventory_screen_master",
+      "sequence_tutorial_c_join_crew_a",
+      "sequence_tutorial_c_join_crew_master",
+      "sequence_tutorial_c_repair_a",
+      "sequence_tutorial_c_repair_b",
+      "sequence_tutorial_c_repair_master",
+      "sequence_tutorial_c_sim_race_a",
+      "sequence_tutorial_c_sim_race_master",
+      "sequence_tutorial_c_stage_upgrade_a",
+      "sequence_tutorial_c_stage_upgrade_master",
+      "sequence_tutorial_c_swap_car_a",
+      "sequence_tutorial_c_swap_car_master",
+      "sequence_tutorial_c_trade_up_a",
+      "sequence_tutorial_c_trade_up_master",
+      "sequence_tutorial_c_visual_upgrade_a",
+      "sequence_tutorial_c_visual_upgrade_master",
+      "sequence_tutorial_drag_1",
+      "sequence_tutorial_drag_2",
+      "sequence_tutorial_drag_3",
+      "sequence_tutorial_drag_4",
+      "sequence_tutorial_drag_mastery_0",
+      "sequence_tutorial_drag_mastery_1",
+      "sequence_tutorial_drift_2",
+      "sequence_tutorial_drift_3",
+      "sequence_tutorial_gacha_0",
+      "sequence_tutorial_gacha_1",
+      "sequence_tutorial_perf_upgrade_0",
+      "sequence_tutorial_perf_upgrade_2",
+      "sequence_tutorial_rewards_screen",
+      "sequence_tutorial_street_1",
+      "sequence_tutorial_street_2",
+      "sequence_tutorial_street_3",
+      "sequence_tutorial_street_4",
+      "sequence_tutorial_takedown"
+    ]
+  },
+  "apk_assets": [
+    {
+      "file": "360b4e53bbcc343f49a417f33174741d",
+      "chapters": [
+        "chapter_00_a",
+        "chapter_00_b"
+      ],
+      "sequences": [
+        "sequence_camera_manager",
+        "sequence_camera_swoosh_sound",
+        "sequence_race"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_race"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "1731cf910427d7f4abc7195b6279c28e",
+      "chapters": [
+        "chapter_01_b"
+      ],
+      "sequences": [
+        "sequence_rolling_starts_la_getaway"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [
+        "Police"
+      ],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_rolling_starts_la_getaway"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "4a14e33e4c0edf04ba7963fa732f1dca",
+      "chapters": [
+        "chapter_00_b"
+      ],
+      "sequences": [
+        "sequence_dialogue_directors"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_dialogue_directors"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "9da3fdffeb261a1419f6ee5be41a0701",
+      "chapters": [
+        "chapter_00_a",
+        "chapter_00_b"
+      ],
+      "sequences": [
+        "sequence_camera_generic_intros",
+        "sequence_dialogue_decision",
+        "sequence_dialogue_directors",
+        "sequence_tutorial_director"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_dialogue_decision"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "3cf42a59d603a4240b3604dfe673ed20",
+      "chapters": [
+        "chapter_02_a",
+        "chapter_02_d",
+        "chapter_03_a",
+        "chapter_03_f",
+        "chapter_13_a"
+      ],
+      "sequences": [],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "Tuning"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "0d4aeabac3c404cb88bbc25eb1559d09",
+      "chapters": [
+        "chapter_02_a",
+        "chapter_02_d",
+        "chapter_03_a",
+        "chapter_03_d"
+      ],
+      "sequences": [],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "GuideManager"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "0f38dbf709c902e4db4b3c85fada8bc0",
+      "chapters": [
+        "chapter_03_a"
+      ],
+      "sequences": [
+        "sequence_tutorial_c_sim_race_master"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tutorial_c_sim_race_master"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "22e5a51a6cd374ec8bba79306f8c7a7a",
+      "chapters": [
+        "chapter_05_d"
+      ],
+      "sequences": [
+        "sequence_getaway_fail",
+        "sequence_tokyo_be_chased"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tokyo_be_chased"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "68961ff17b1b4b14baf71563f251c1cc",
+      "chapters": [
+        "chapter_01_c"
+      ],
+      "sequences": [
+        "sequence_tutorial_c_join_crew_master"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tutorial_c_join_crew_master"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "af880df82dc664797be39154d7b32580",
+      "chapters": [
+        "chapter_01_b"
+      ],
+      "sequences": [
+        "sequence_tutorial_drag_4"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tutorial_drag_4"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "d65f76c645ca3ec45b3fa226b7e295ef",
+      "chapters": [
+        "chapter_02_e"
+      ],
+      "sequences": [
+        "sequence_tutorial_c_unlock_crewbattle_master"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tutorial_c_unlock_crewbattle_master"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "de1c85a1357b3a94295d1a60824d37f0",
+      "chapters": [
+        "chapter_02_b"
+      ],
+      "sequences": [
+        "sequence_tutorial_c_unlock_ranked_master"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_tutorial_c_unlock_ranked_master"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "e8b74488fb9284316bd61f37457cf2f8",
+      "chapters": [
+        "chapter_05_d"
+      ],
+      "sequences": [
+        "sequence_rolling_starts_tokyo_getaway"
+      ],
+      "tracks": [],
+      "car_attributes": [],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "sequence_rolling_starts_tokyo_getaway"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "8ab60a985f288354eb6ea193d7ae886f",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_ff_police_sedan_tokyo_01",
+        "car_attribute_nissan_gtr_r35_2007"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor1_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Tutorial_Getaway_Intro"
+        },
+        {
+          "type": "GameObject",
+          "name": "CameraRig"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_puff_skid_stop_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_speed_small_wheel_debris"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_prefab_previz"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_lane_change_right_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_lane_change_left_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_30-49"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_15-29"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_30-49"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_15-29"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_med"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_drift_right"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_30-49"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_15-29"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_30-49"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_15-29"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_med"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_drift_left"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_30-49"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_15-29"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_med"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar04"
+        },
+        {
+          "type": "GameObject",
+          "name": "IntroTrafficCars"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar02"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar03"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_drift_smoke_1-14_low_rez_buffer"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar05"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_drift_opposite"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_player_leaves_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_fade_to_black"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_police_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "1332c61f95ebf6f41a9a1c8c8551f3e3",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_chevrolet_corvette_c6_zr1_2013",
+        "car_attribute_dodge_viper_srt_gts_2013"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "IntroRace_End_Audio"
+        },
+        {
+          "type": "GameObject",
+          "name": "prop_missile"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Exploding_Bridge"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterestParent"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_falling"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_launch"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_missile_trail"
+        },
+        {
+          "type": "GameObject",
+          "name": "Light_test"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_spinning_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_loop_metal"
+        },
+        {
+          "type": "GameObject",
+          "name": "rocket_dummy"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_linger"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_metal_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "ground_shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_concrete_large"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_small_bits"
+        },
+        {
+          "type": "GameObject",
+          "name": "explosion_up_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_fire_stack_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "dust_downward"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_debris_falling"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles_3"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_bridge_collapse"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_concrete_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "spikes"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_particles_long"
+        },
+        {
+          "type": "GameObject",
+          "name": "fireworks_fire"
+        },
+        {
+          "type": "GameObject",
+          "name": "spark shower"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "ember_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "AudioSource",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "CapsuleCollider",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "03d0507442004f8478d338685a9a4046",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_chevrolet_corvette_c6_zr1_2013",
+        "car_attribute_dodge_viper_srt_gts_2013"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_missile_trail"
+        },
+        {
+          "type": "GameObject",
+          "name": "prop_missile"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Exploding_Bridge_Replay"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterestParent"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_falling"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_launch"
+        },
+        {
+          "type": "GameObject",
+          "name": "Light_test"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_spinning_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "rocket_dummy"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_linger"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_metal_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "ground_shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_concrete_large"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_small_bits"
+        },
+        {
+          "type": "GameObject",
+          "name": "explosion_up_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_fire_stack_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "dust_downward"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_debris_falling"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles_3"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_bridge_collapse"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "debris_concrete_small"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "spikes"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_light"
+        },
+        {
+          "type": "GameObject",
+          "name": "flare_particles_long"
+        },
+        {
+          "type": "GameObject",
+          "name": "fireworks_fire"
+        },
+        {
+          "type": "GameObject",
+          "name": "spark shower"
+        },
+        {
+          "type": "GameObject",
+          "name": "fire_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "ember_particles"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "CapsuleCollider",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "2d1a55ac266f0394ab5c68bd0fd9e648",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_ff_police_sedan_tokyo_01",
+        "car_attribute_nissan_gtr_r35_2007"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [
+        "Police"
+      ],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "CameraRig"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Getaway_Success"
+        },
+        {
+          "type": "GameObject",
+          "name": "PoliceCar1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "getaway_success_audio"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue"
+        },
+        {
+          "type": "GameObject",
+          "name": "Wheels"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelights"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_police_sedan_01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue"
+        },
+        {
+          "type": "GameObject",
+          "name": "Wheels"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelights"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_police_sedan_01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_right_rear_2"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_left_rear_2"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_puff_skid_stop_2"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_puff_skid_stop_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_right_rear_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_left_rear_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_player_leaves_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_police_car_2"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_police_car_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_b"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "MatineeTrailRenderer_Police_car_1_treads_right"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_b"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "MatineeTrailRenderer_Police_car_1_tread_left"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "PoliceCar2"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar02"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar01"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "MatineeTrailRenderer_Police_car_treads_right"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_b"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_b"
+        },
+        {
+          "type": "GameObject",
+          "name": "point_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "MatineeTrailRenderer_Police_car_treads"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrailRenderer"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "92145bfd0845e254cae67b01b70bf39c",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_ff_police_sedan_tokyo_01",
+        "car_attribute_nissan_gtr_r35_2007"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_TutorialReplay_Getaway_Intro"
+        },
+        {
+          "type": "GameObject",
+          "name": "CameraRig"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_police_light_flare"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_rim_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "Wheels"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_police_v01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_cinematic"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_red"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_cinematic"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelight_blue"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_policelights"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrafficVehicle_00"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_cinematic"
+        },
+        {
+          "type": "GameObject",
+          "name": "Traffic3"
+        },
+        {
+          "type": "GameObject",
+          "name": "Traffic2"
+        },
+        {
+          "type": "GameObject",
+          "name": "Traffic1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_dust_puff_skid_stop_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "ChaseCopCar"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_lane_change_right_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_police_smoke_lane_change_left_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_player_leaves_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_fade_to_black"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_police_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystem",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "ParticleSystemRenderer",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "63f36ed01d1c40d42a7cd30bb1a2c811",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_chevrolet_corvette_c3_1969",
+        "car_attribute_ff_police_sedan_tokyo_01"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [
+        "Police"
+      ],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "getaway_intro_audio"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Street_Getaway_Intro"
+        },
+        {
+          "type": "GameObject",
+          "name": "CameraRig"
+        },
+        {
+          "type": "GameObject",
+          "name": "Audio Event"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_player_leaves_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear_front"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear_front"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "PoliceCar"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_v01_a_mesh"
+        },
+        {
+          "type": "GameObject",
+          "name": "Shadow"
+        },
+        {
+          "type": "GameObject",
+          "name": "Lensflare"
+        },
+        {
+          "type": "GameObject",
+          "name": "Headlight"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_r01"
+        },
+        {
+          "type": "GameObject",
+          "name": "geo_plane_square_l01"
+        },
+        {
+          "type": "GameObject",
+          "name": "traffic_sedan_compact_01_a"
+        },
+        {
+          "type": "GameObject",
+          "name": "IntroTrafficCars"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar02"
+        },
+        {
+          "type": "GameObject",
+          "name": "traficCar03"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshRenderer",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "MeshFilter",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "Rigidbody",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "BoxCollider",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": ""
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    },
+    {
+      "file": "0dd2485d2ee7ee743a15ee7d7064a26f",
+      "chapters": [],
+      "sequences": [],
+      "tracks": [
+        "track_debris_1"
+      ],
+      "car_attributes": [
+        "car_attribute_bmw_m3_e30_1989",
+        "car_attribute_chevrolet_corvette_c3_1969"
+      ],
+      "story_ids": [],
+      "location_ids": [],
+      "character_hits": [],
+      "object_names": [
+        {
+          "type": "GameObject",
+          "name": "StageCameraInterest"
+        },
+        {
+          "type": "GameObject",
+          "name": "takedown_intro_audio"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor4_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Stage_Takedown_Intro"
+        },
+        {
+          "type": "GameObject",
+          "name": "CameraRig"
+        },
+        {
+          "type": "GameObject",
+          "name": "Audio Event"
+        },
+        {
+          "type": "GameObject",
+          "name": "StageCamera"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_fox_leaves_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_fox_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_fox_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_fox_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_fox_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "FX_player_car"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_tire_tread_left"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor0_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_tire_tread_right"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_smoke_haze_linger_low"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrafficCar03"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrafficCar02"
+        },
+        {
+          "type": "GameObject",
+          "name": "TrafficCar01"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_p_small _track_debris_1"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_left_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_wheel debris_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "fx_player_smoke_trailing_right_rear"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor3_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor2_locator"
+        },
+        {
+          "type": "GameObject",
+          "name": "Actor1_locator"
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Transform",
+          "name": null
+        },
+        {
+          "type": "Camera",
+          "name": null
+        },
+        {
+          "type": "Skybox",
+          "name": null
+        },
+        {
+          "type": "AudioListener",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "Animation",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        },
+        {
+          "type": "MonoBehaviour",
+          "name": null
+        }
+      ]
+    }
+  ],
+  "chapter_to_assets": {
+    "chapter_00_a": [
+      "360b4e53bbcc343f49a417f33174741d",
+      "9da3fdffeb261a1419f6ee5be41a0701"
+    ],
+    "chapter_00_b": [
+      "360b4e53bbcc343f49a417f33174741d",
+      "4a14e33e4c0edf04ba7963fa732f1dca",
+      "9da3fdffeb261a1419f6ee5be41a0701"
+    ],
+    "chapter_01_b": [
+      "1731cf910427d7f4abc7195b6279c28e",
+      "af880df82dc664797be39154d7b32580"
+    ],
+    "chapter_02_a": [
+      "3cf42a59d603a4240b3604dfe673ed20",
+      "0d4aeabac3c404cb88bbc25eb1559d09"
+    ],
+    "chapter_02_d": [
+      "3cf42a59d603a4240b3604dfe673ed20",
+      "0d4aeabac3c404cb88bbc25eb1559d09"
+    ],
+    "chapter_03_a": [
+      "3cf42a59d603a4240b3604dfe673ed20",
+      "0d4aeabac3c404cb88bbc25eb1559d09",
+      "0f38dbf709c902e4db4b3c85fada8bc0"
+    ],
+    "chapter_03_f": [
+      "3cf42a59d603a4240b3604dfe673ed20"
+    ],
+    "chapter_13_a": [
+      "3cf42a59d603a4240b3604dfe673ed20"
+    ],
+    "chapter_03_d": [
+      "0d4aeabac3c404cb88bbc25eb1559d09"
+    ],
+    "chapter_05_d": [
+      "22e5a51a6cd374ec8bba79306f8c7a7a",
+      "e8b74488fb9284316bd61f37457cf2f8"
+    ],
+    "chapter_01_c": [
+      "68961ff17b1b4b14baf71563f251c1cc"
+    ],
+    "chapter_02_e": [
+      "d65f76c645ca3ec45b3fa226b7e295ef"
+    ],
+    "chapter_02_b": [
+      "de1c85a1357b3a94295d1a60824d37f0"
+    ]
+  },
+  "notes": [
+    "Career race data is not stored as one plain JSON database.",
+    "Track catalog lives in OBB scenes/toc.txt.",
+    "Tutorial chapter links live in tutorials/tutorials_db_base.assetbundle.",
+    "Chapter/sequence flow evidence lives in APK assets/bin/Data/* serialized Unity assets.",
+    "Some APK assets are named sequences such as sequence_race, sequence_dialogue_decision, sequence_dialogue_directors, sequence_rolling_starts_la_getaway, sequence_tokyo_be_chased."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ff7-custom-server",
+  "version": "0.1.0",
+  "description": "FF7 custom game server — local private server with per-device saves",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "HTTP_PORT=8080 node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

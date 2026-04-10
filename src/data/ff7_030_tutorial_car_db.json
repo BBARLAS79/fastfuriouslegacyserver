@@ -1,0 +1,363 @@
+{
+  "ff_police_sedan_tokyo_01": {
+    "m": 1977,
+    "n": "car_attribute_ff_police_sedan_tokyo_01",
+    "fn": "2012 DODGE CHARGER SRT8",
+    "mtq": 470.3075,
+    "ms": 70,
+    "fs": {
+      "y": 50,
+      "x": 50
+    },
+    "cd": 20,
+    "fcs": "0.17&10000&600&0",
+    "fev": {
+      "y": 8,
+      "x": 8
+    },
+    "snd": 5,
+    "bst": 1,
+    "ncvuh": "",
+    "mdrpm": 7000,
+    "ngr": "0&0.25&0.5&1&1&1&1",
+    "ss": {
+      "y": 1.9,
+      "x": 2.1
+    },
+    "pidst": {
+      "y": 71.2,
+      "x": 17.8
+    },
+    "nd": 3,
+    "snt": 525,
+    "mrpm": 6500,
+    "dvu": "-867968218&-1&-1&537157814&-1&-1&-1&-9532784&-1&-9532784&-1&933108386&933108386&1304612902&-1",
+    "rcs": "0.19&8200&492&0",
+    "kd": {
+      "y": 0.08,
+      "x": 0.15
+    },
+    "cof": 0.338,
+    "nt": 250,
+    "mxrpm": 4700,
+    "fes": 1,
+    "com": {
+      "y": 0.2,
+      "z": 0,
+      "x": 0
+    },
+    "sas": 3,
+    "soff": "0&0",
+    "sav": {
+      "y": 800,
+      "x": 900
+    },
+    "kp": {
+      "y": 0.305,
+      "x": 0.4
+    },
+    "fas": 4,
+    "rt": 3600,
+    "mrrpm": 4500,
+    "rvu": "[]",
+    "rz": 6250,
+    "cty": "stock",
+    "cset": "none",
+    "tbp": "Bundles/UITextures/Thumbnails/ff_police_sedan_tokyo_01",
+    "frd": 30,
+    "ses": 1,
+    "rsc": 100,
+    "sev": {
+      "y": 900,
+      "x": 1000
+    },
+    "cpp": "Bundles/cars/base/assets/attributes/stock/car_attribute_ff_police_sedan_tokyo_01",
+    "psrpm": "3150&6200&6200&6200&6200&6500",
+    "ncvu": "",
+    "et": 4,
+    "egr": "0&3.59&2.19&1.41&1&0.83",
+    "pi": 437,
+    "rwd": 0.5500019,
+    "c": 3,
+    "fd": 0.7,
+    "mf": "misc",
+    "fav": {
+      "y": 6.5,
+      "x": 6.5
+    },
+    "tcc": 1000,
+    "l": "Bundles/UITextures/CarBrands/CarBrand_Dodge"
+  },
+  "ford_gran_torino_1972_ff4": {
+    "m": 1768,
+    "n": "car_attribute_ford_gran_torino_1972_ff4",
+    "fn": "LETTY'S 1972 FORD GRAN TORINO",
+    "mtq": 324.7374,
+    "ms": 70,
+    "fs": {
+      "y": 50,
+      "x": 50
+    },
+    "cd": 20,
+    "fcs": "0.12&10000&600&0",
+    "fev": {
+      "y": 8,
+      "x": 8
+    },
+    "snd": 5,
+    "bst": 1.25,
+    "ncvuh": "",
+    "mdrpm": 6000,
+    "ngr": "0&0.25&0.5&1&1&1&1",
+    "ss": {
+      "y": 1.9,
+      "x": 2.1
+    },
+    "mrrpm": 4300,
+    "nd": 3,
+    "snt": 600,
+    "mrpm": 5700,
+    "dvu": "1289556431&-1&-1&-1804020449&-1&-1&-1&-2132144339&-1&-2132144339&-1&-1036232316&1097930819&1409553428&-1",
+    "rcs": "0.16&8200&492&0",
+    "kd": {
+      "y": 0.08,
+      "x": 0.15
+    },
+    "cof": 0.5,
+    "nt": 50,
+    "mxrpm": 4500,
+    "fes": 1,
+    "com": {
+      "y": 0.2,
+      "z": 0,
+      "x": 0
+    },
+    "sas": 3,
+    "soff": "0&0",
+    "sav": {
+      "y": 800,
+      "x": 900
+    },
+    "kp": {
+      "y": 0.305,
+      "x": 0.4
+    },
+    "fas": 4,
+    "rt": 3600,
+    "tsu": 20,
+    "rvu": "[]",
+    "rz": 5500,
+    "cty": "stock",
+    "cset": "none",
+    "tbp": "Bundles/UITextures/Thumbnails/ford_gran_torino_1972_ff4",
+    "frd": 30,
+    "ses": 1,
+    "rsc": 100,
+    "sev": {
+      "y": 900,
+      "x": 1000
+    },
+    "cpp": "Bundles/cars/base/assets/attributes/stock/car_attribute_ford_gran_torino_1972_ff4",
+    "pidst": {
+      "y": 71.2,
+      "x": 17.8
+    },
+    "psrpm": "3150&5400&5400&5400&5700",
+    "ncvu": "",
+    "et": 5,
+    "egr": "0&2.78&1.93&1.36&1",
+    "pi": 327,
+    "rwd": 0.5996929,
+    "c": 1,
+    "fd": 0.7,
+    "mf": "ford",
+    "fav": {
+      "y": 6,
+      "x": 6
+    },
+    "tcc": 1000,
+    "l": "Bundles/UITextures/CarBrands/CarBrand_Ford"
+  },
+  "ford_mustang_gt_2015": {
+    "m": 1684,
+    "n": "car_attribute_ford_mustang_gt_2015",
+    "fn": "2015 MUSTANG GT",
+    "mtq": 401.2964,
+    "ms": 70,
+    "fs": {
+      "y": 50,
+      "x": 50
+    },
+    "cd": 20,
+    "fcs": "0.15&10000&600&0",
+    "fev": {
+      "y": 8,
+      "x": 8
+    },
+    "snd": 5,
+    "bst": 1.25,
+    "ncvuh": "",
+    "mdrpm": 8500,
+    "ngr": "0&0.25&0.5&1&1&1&1",
+    "ss": {
+      "y": 1.9,
+      "x": 2.1
+    },
+    "mrrpm": 6000,
+    "nd": 3,
+    "snt": 600,
+    "slvgc": 30000,
+    "mrpm": 7700,
+    "dvu": "-2037675763&-1&-1&-1&-1&-1&-1&1772279311&-1&1772279311&-1&-300134898&-300134898&1304612902&-91876782",
+    "rcs": "0.16&8200&492&0",
+    "kd": {
+      "y": 0.08,
+      "x": 0.15
+    },
+    "cof": 0.32,
+    "nt": 350,
+    "mxrpm": 6200,
+    "fes": 1,
+    "com": {
+      "y": 0.2,
+      "z": 0,
+      "x": 0
+    },
+    "sas": 3,
+    "soff": "0&0",
+    "sav": {
+      "y": 800,
+      "x": 900
+    },
+    "kp": {
+      "y": 0.305,
+      "x": 0.4
+    },
+    "fas": 4,
+    "rt": 14400,
+    "tsu": 25,
+    "rvu": "[]",
+    "rz": 7500,
+    "cty": "stock",
+    "cset": "none",
+    "tbp": "Bundles/UITextures/Thumbnails/ford_mustang_gt_2015",
+    "frd": 30,
+    "ses": 1,
+    "rsc": 100,
+    "sev": {
+      "y": 900,
+      "x": 1000
+    },
+    "cpp": "Bundles/cars/base/assets/attributes/stock/car_attribute_ford_mustang_gt_2015",
+    "pidst": {
+      "y": 71.2,
+      "x": 17.8
+    },
+    "psrpm": "4250&7400&7400&7400&7400&7400&7700",
+    "ncvu": "",
+    "et": 4,
+    "egr": "0&3.657&2.43&1.686&1.315&1&0.651",
+    "pi": 440,
+    "rwd": 0.5,
+    "c": 4,
+    "fd": 0.5,
+    "mf": "ford",
+    "fav": {
+      "y": 6.5,
+      "x": 6.5
+    },
+    "tcc": 1000,
+    "l": "Bundles/UITextures/CarBrands/CarBrand_Ford"
+  },
+  "nissan_gtr_r35_2007_bensopra_ff6": {
+    "m": 1440,
+    "n": "car_attribute_nissan_gtr_r35_2007_bensopra_ff6",
+    "fn": "2007 NISSAN SKYLINE GT-R BEN SOPRA",
+    "mtq": 741.701,
+    "ms": 70,
+    "fs": {
+      "y": 40,
+      "x": 40
+    },
+    "cd": 20,
+    "fcs": "0.1&10000&600&0",
+    "fev": {
+      "y": 7,
+      "x": 7
+    },
+    "snd": 5,
+    "bst": 1.25,
+    "ncvuh": "-744524965&2003198165&1283149304&1361827634&-1776961364&-484631542",
+    "mdrpm": 8000,
+    "ngr": "0&0.25&0.5&1&1&1&1",
+    "ss": {
+      "y": 1.9,
+      "x": 2.1
+    },
+    "mrrpm": 4500,
+    "nd": 3,
+    "snt": 600,
+    "mrpm": 7200,
+    "dvu": "-312716425&-1&-1&-1&-1&-1&-1&982969186&-1&982969186&-1&-300134898&-300134898&1304612902&-1",
+    "rcs": "0.12&8200&492&0",
+    "kd": {
+      "y": 0.08,
+      "x": 0.15
+    },
+    "cof": 0.33,
+    "nt": 400,
+    "mxrpm": 4700,
+    "fes": 1,
+    "com": {
+      "y": 0.2,
+      "z": 0,
+      "x": 0
+    },
+    "sas": 3,
+    "soff": "0&0",
+    "sav": {
+      "y": 800,
+      "x": 900
+    },
+    "kp": {
+      "y": 0.305,
+      "x": 0.4
+    },
+    "fas": 3,
+    "rt": 28800,
+    "tsu": 25,
+    "rvu": "[]",
+    "rz": 7000,
+    "cty": "stock",
+    "cset": "none",
+    "tbp": "Bundles/UITextures/Thumbnails/nissan_gtr_r35_2007_bensopra_ff6",
+    "frd": 30,
+    "at": 1,
+    "ses": 1,
+    "rsc": 100,
+    "sev": {
+      "y": 900,
+      "x": 1000
+    },
+    "cpp": "Bundles/cars/base/assets/attributes/stock/car_attribute_nissan_gtr_r35_2007_bensopra_ff6",
+    "pidst": {
+      "y": 71.2,
+      "x": 17.8
+    },
+    "psrpm": "4400&6900&6900&6900&6900&6900&7200",
+    "ncvu": "BODY_PAINT&DECAL_BODY&DECAL_HOOD&VINYL&UNDERGLOW&SPOILER&SPOILER_MATERIAL&RIM_FRONT&RIM_MATERIAL_FRONT&RIM_REAR&RIM_MATERIAL_REAR&TIRE_FRONT&TIRE_REAR&LENSFLARE&BODYKIT",
+    "et": 2,
+    "egr": "0&4.056&2.301&1.595&1.248&1.001&0.796",
+    "pi": 654,
+    "rwd": 0.5996929,
+    "c": 6,
+    "fd": 0.5,
+    "mf": "nissan",
+    "fav": {
+      "y": 6,
+      "x": 6
+    },
+    "tcc": 1000,
+    "l": "Bundles/UITextures/CarBrands/CarBrand_Nissan"
+  }
+}

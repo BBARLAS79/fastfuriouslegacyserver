@@ -1,0 +1,474 @@
+{
+  "ltgid": 40,
+  "data": {
+    "SEQUENTIAL": [
+      {
+        "gn": "First Race - Street Tutorial",
+        "t": [
+          {
+            "tgi": 1,
+            "tsp": "Prefab_Sequences/sequence_tutorial_street_2",
+            "ti": 3,
+            "jid": "chapter_00_a",
+            "si": 0,
+            "rist": null,
+            "tn": "Change Lane"
+          },
+          {
+            "tgi": 1,
+            "tsp": "Prefab_Sequences/sequence_tutorial_street_3",
+            "ti": 4,
+            "jid": null,
+            "si": 1,
+            "rist": null,
+            "tn": "Use NOS"
+          },
+          {
+            "tgi": 1,
+            "tsp": "Prefab_Sequences/sequence_tutorial_street_4",
+            "ti": 5,
+            "jid": null,
+            "si": 2,
+            "rist": null,
+            "tn": "CompleteRace"
+          }
+        ],
+        "si": 0,
+        "gsp": "",
+        "gi": 1
+      },
+      {
+        "gn": "Second Race - Street to Getaway",
+        "t": [
+          {
+            "tgi": 2,
+            "tsp": "Prefab_Sequences/sequence_tutorial_street_1",
+            "ti": 6,
+            "jid": "chapter_00_b",
+            "si": 0,
+            "rist": null,
+            "tn": "Second Race Street Mastery"
+          }
+        ],
+        "si": 1,
+        "gsp": "",
+        "gi": 2
+      },
+      {
+        "gn": "Gacha FTE Buy Car",
+        "t": [
+          {
+            "tgi": 3,
+            "tsp": "Prefab_Sequences/sequence_tutorial_gacha_0",
+            "ti": 7,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Go to Gacha Screen"
+          }
+        ],
+        "si": 2,
+        "gsp": "",
+        "gi": 3
+      },
+      {
+        "gn": "Gacha FTE Main Menu > Race Select",
+        "t": [
+          {
+            "tgi": 4,
+            "tsp": "Prefab_Sequences/sequence_tutorial_gacha_1",
+            "ti": 8,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Main Menu Race Select"
+          }
+        ],
+        "si": 3,
+        "gsp": "",
+        "gi": 4
+      },
+      {
+        "gn": "Third Race - Results Screen Tutorial",
+        "t": [
+          {
+            "tgi": 5,
+            "tsp": "Prefab_Sequences/sequence_tutorial_rewards_screen",
+            "ti": 31,
+            "jid": "chapter_01_a",
+            "si": 0,
+            "rist": null,
+            "tn": "Results Screen - Rewards FTE"
+          }
+        ],
+        "si": 4,
+        "gsp": "",
+        "gi": 5
+      },
+      {
+        "gn": "Performance Upgrade FTE",
+        "t": [
+          {
+            "tgi": 6,
+            "tsp": "Prefab_Sequences/sequence_tutorial_perf_upgrade_0",
+            "ti": 10,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Performance Upgrade Tutorial"
+          }
+        ],
+        "si": 5,
+        "gsp": "",
+        "gi": 6
+      },
+      {
+        "gn": "Performance Upgrade Finished, go to race",
+        "t": [
+          {
+            "tgi": 8,
+            "tsp": "Prefab_Sequences/sequence_tutorial_perf_upgrade_2",
+            "ti": 12,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Performance Upgrade Finished, go to race"
+          }
+        ],
+        "si": 6,
+        "gsp": "",
+        "gi": 8
+      },
+      {
+        "gn": "Fourth Race - Drag FTE",
+        "t": [
+          {
+            "tgi": 9,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_1",
+            "ti": 14,
+            "jid": "chapter_01_b",
+            "si": 0,
+            "rist": null,
+            "tn": "Launch"
+          },
+          {
+            "tgi": 9,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_2",
+            "ti": 15,
+            "jid": "",
+            "si": 1,
+            "rist": null,
+            "tn": "Shift"
+          },
+          {
+            "tgi": 9,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_3",
+            "ti": 16,
+            "jid": "",
+            "si": 2,
+            "rist": null,
+            "tn": "NOS"
+          },
+          {
+            "tgi": 9,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_4",
+            "ti": 17,
+            "jid": "chapter_01_b",
+            "si": 3,
+            "rist": null,
+            "tn": "Complete Race"
+          }
+        ],
+        "si": 7,
+        "gsp": "",
+        "gi": 9
+      },
+      {
+        "gn": "Fifth Race - Drag Mastery",
+        "t": [
+          {
+            "tgi": 10,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_mastery_0",
+            "ti": 18,
+            "jid": "chapter_01_c",
+            "si": 0,
+            "rist": null,
+            "tn": "Fifth Race Drag Mastery Launch"
+          },
+          {
+            "tgi": 10,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drag_mastery_1",
+            "ti": 38,
+            "jid": "chapter_01_c",
+            "si": 1,
+            "rist": null,
+            "tn": "Fifth Race Drag Mastery Shift Assist"
+          }
+        ],
+        "si": 8,
+        "gsp": "",
+        "gi": 10
+      },
+      {
+        "gn": "Challenge Race FTE",
+        "t": [
+          {
+            "tgi": 12,
+            "tsp": "Prefab_Sequences/sequence_tutorial_challenge_race_open",
+            "ti": 33,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Challenge Race FTE"
+          }
+        ],
+        "si": 9,
+        "gsp": "",
+        "gi": 12
+      },
+      {
+        "gn": "Seventh Race - Takedown FTE",
+        "t": [
+          {
+            "tgi": 39,
+            "tsp": "Prefab_Sequences/sequence_tutorial_takedown",
+            "ti": 59,
+            "jid": null,
+            "si": 0,
+            "rist": "chapter_01_e",
+            "tn": "Takedown FTE"
+          }
+        ],
+        "si": 10,
+        "gsp": "",
+        "gi": 39
+      },
+      {
+        "gn": "Drift Race Tutorial",
+        "t": [
+          {
+            "tgi": 15,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drift_1",
+            "ti": 24,
+            "jid": null,
+            "si": 0,
+            "rist": "chapter_02_a",
+            "tn": "Drift Launch"
+          },
+          {
+            "tgi": 15,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drift_2",
+            "ti": 25,
+            "jid": null,
+            "si": 1,
+            "rist": null,
+            "tn": "Drift Instructions"
+          },
+          {
+            "tgi": 15,
+            "tsp": "Prefab_Sequences/sequence_tutorial_drift_3",
+            "ti": 26,
+            "jid": null,
+            "si": 2,
+            "rist": null,
+            "tn": "Use NOS"
+          }
+        ],
+        "si": 11,
+        "gsp": "",
+        "gi": 15
+      }
+    ],
+    "CONTEXTUAL": [
+      {
+        "gn": "Inventory Screen Master",
+        "t": [
+          {
+            "tgi": 24,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_inventory_screen_a",
+            "ti": 43,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Inventory Screen FTE"
+          }
+        ],
+        "si": 12,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_inventory_screen_master",
+        "gi": 24
+      },
+      {
+        "gn": "Repair Master",
+        "t": [
+          {
+            "tgi": 25,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_repair_a",
+            "ti": 44,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Repair FTE"
+          }
+        ],
+        "si": 13,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_repair_master",
+        "gi": 25
+      },
+      {
+        "gn": "Stage Upgrade Master",
+        "t": [
+          {
+            "tgi": 26,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_stage_upgrade_a",
+            "ti": 45,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Stage Upgrade FTE"
+          }
+        ],
+        "si": 14,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_stage_upgrade_master",
+        "gi": 26
+      },
+      {
+        "gn": "Swap & Sell Car Master",
+        "t": [
+          {
+            "tgi": 27,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_swap_car_a",
+            "ti": 46,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Swap & Sell Car FTE"
+          }
+        ],
+        "si": 15,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_swap_car_master",
+        "gi": 27
+      },
+      {
+        "gn": "Sim Race Unlocked Master",
+        "t": [
+          {
+            "tgi": 30,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_sim_race_a",
+            "ti": 50,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Sim Race Unlocked FTE"
+          }
+        ],
+        "si": 16,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_sim_race_master",
+        "gi": 30
+      },
+      {
+        "gn": "Ranked Races Unlocked Master",
+        "t": [
+          {
+            "tgi": 33,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_unlock_ranked_a",
+            "ti": 54,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Ranked Races Unlocked"
+          }
+        ],
+        "si": 17,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_unlock_ranked_master",
+        "gi": 33
+      },
+      {
+        "gn": "Crew Battles Unlocked Master",
+        "t": [
+          {
+            "tgi": 34,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_unlock_crewbattle_a",
+            "ti": 55,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Crew Battles Unlocked"
+          }
+        ],
+        "si": 18,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_unlock_crewbattle_master",
+        "gi": 34
+      },
+      {
+        "gn": "Hire Mechanic Master",
+        "t": [
+          {
+            "tgi": 35,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_hire_mechanic_a",
+            "ti": 56,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Hire Mechanic FTE"
+          }
+        ],
+        "si": 19,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_hire_mechanic_master",
+        "gi": 35
+      },
+      {
+        "gn": "Style Upgrade Master",
+        "t": [
+          {
+            "tgi": 36,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_visual_upgrade_a",
+            "ti": 57,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Style Upgrade FTE"
+          }
+        ],
+        "si": 20,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_visual_upgrade_master",
+        "gi": 36
+      },
+      {
+        "gn": "Trade Up Master",
+        "t": [
+          {
+            "tgi": 37,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_trade_up_a",
+            "ti": 58,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Trade Up FTE"
+          }
+        ],
+        "si": 21,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_trade_up_master",
+        "gi": 37
+      },
+      {
+        "gn": "Join Crew Master",
+        "t": [
+          {
+            "tgi": 40,
+            "tsp": "Prefab_Sequences/sequence_tutorial_c_join_crew_a",
+            "ti": 60,
+            "jid": null,
+            "si": 0,
+            "rist": null,
+            "tn": "Join Crew FTE"
+          }
+        ],
+        "si": 22,
+        "gsp": "Prefab_Sequences/sequence_tutorial_c_join_crew_master",
+        "gi": 40
+      }
+    ]
+  },
+  "ltid": 60,
+  "dbhash": "18e13f9ee09d1a3ddf30cbe07f0eae14"
+}
